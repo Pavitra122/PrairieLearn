@@ -34,6 +34,7 @@
   * Add Graphviz Yum package and Python library to centos7-plbase and centos7-python (Nicolas Nytko).
 
   * Add a second example of reading XML code in from a file with `pl-code` (James Balamuta).
+  * Add instructor info panel to student pages (Dave Mussulman).
 
   * Change "Save & Grade" button text and alignment (Dave Mussulman).
   * Add instructor info panel to student pages (Dave Mussulman).
