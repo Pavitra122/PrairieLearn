@@ -36,6 +36,8 @@
   * Add a second example of reading XML code in from a file with `pl-code` (James Balamuta).
   * Add instructor info panel to student pages (Dave Mussulman).
 
+  * Add documentation on common development errors to FAQ. (James Balamuta).
+
   * Change "Save & Grade" button text and alignment (Dave Mussulman).
   * Add instructor info panel to student pages (Dave Mussulman).
 
@@ -120,6 +122,7 @@
   * Fix Python autograder container build (Matt West).
 
   * Fix copy button (Tim Bretl).
+  * Fix python question random to seed from `variant.variant_seed` (Dave Mussulman).
 
   * Remove `allowIssueReporting` option in `infoCourseInstance.json` (Matt West).
 
